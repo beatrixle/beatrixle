@@ -12,8 +12,8 @@
 <a href="https://www.instagram.com/v_marilynb/">
 <img src="https://img.shields.io/badge/-E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="50">
 </a>
-<a href="https://pin.it/47gQ6edHu">
-  <img src="https://img.shields.io/badge/-E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" width="50">
+<a href="https://x.com/h_rxy_">
+  <img src="https://img.shields.io/badge/-000000.svg?style=flat-square&logo=x&logoColor=white" alt="Twitter" width="50">
 </a>
 
 ## 𝐆𝐎𝐀𝐋𝐒 👾
