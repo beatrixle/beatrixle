@@ -15,3 +15,15 @@
 <a href="https://pin.it/47gQ6edHu">
   <img src="https://img.shields.io/badge/-E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" width="50">
 </a>
+
+## 𝐆𝐎𝐀𝐋𝐒 👾
+🗹 Join an IT-CAMP/Course/Etc.
+<br> ☐ Less copy pasting
+<br> ☐ Make a working light/darkmode button
+<br> ☐ Make/help with my mothers website
+<br> ☐ Code my own Neocities (advanced)
+<br> ☐ Code my own game (advanced)
+
+### Current works‼️
+― I'm working on a simple site where my goal is to make a working light/darkmode button
+<br> It should aswell save your chosen mode when coming back to/refreshing the site
