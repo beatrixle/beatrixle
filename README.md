@@ -1,5 +1,5 @@
 # ROAR 🦖
-i'm kinda bored...
+coding is supa haarrrdddd...
 
 ## Socials
 <a href="https://discord.com/users/1036554288673083446">
